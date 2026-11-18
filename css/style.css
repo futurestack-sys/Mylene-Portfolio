@@ -576,6 +576,11 @@ textarea:focus-visible {
   font-size: 1.25rem;
   font-weight: 700;
 }
+.skill-symbol img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
 .html-symbol {
   color: #ff856a;
   background: rgba(255, 106, 68, 0.12);
